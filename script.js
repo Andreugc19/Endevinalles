@@ -1,13 +1,28 @@
 const questions = [
     {
         questio: "Quin pais te mes poblacio?",
-        respostaCorrecta: "La Xina",
-        respostaIncorrecta: "L'India",
+        respostaCorrecta: "Xina",
+        respostaIncorrecta: "India",
     },
     {
         questio: "El primer astronauta a trepitjar la Lluna va ser?",
         respostaCorrecta: "Neil Amstrong",
         respostaIncorrecta: "Louis Amstrong",
+    },
+    {
+        questio: "Qui es el millor jugador?",
+        respostaCorrecta: "Messi",
+        respostaIncorrecta: "Ronaldo",
+    },
+    {
+        questio: "Quin es el pais mes gran?",
+        respostaCorrecta: "Russia",
+        respostaIncorrecta: "EEUU",
+    },
+    {
+        questio: "Quin pais es d'America",
+        respostaCorrecta: "Argentina",
+        respostaIncorrecta: "Marroc",
     }
 ];
 
