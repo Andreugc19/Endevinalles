@@ -20,7 +20,7 @@ const questions = [
         respostaIncorrecta: "EEUU",
     },
     {
-        questio: "Quin pais es d'America",
+        questio: "Quin pais es d'America?",
         respostaCorrecta: "Argentina",
         respostaIncorrecta: "Marroc",
     }
