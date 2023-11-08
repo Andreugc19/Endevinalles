@@ -10,7 +10,7 @@ const questions = [
         respostaIncorrecta: "Louis Amstrong",
     },
     {
-        questio: "Qui es el millor jugador?",
+        questio: "Quin es el millor jugador?",
         respostaCorrecta: "Messi",
         respostaIncorrecta: "Ronaldo",
     },
